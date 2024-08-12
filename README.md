@@ -1,7 +1,9 @@
 Project title -  Doctor Scrapper App
 Project Description - The Doctor Scrapper App  is a basically Streamlit App  designed to Scrapper the number od doctor present in specific location. 
 Via this app user easily found how many doctor available in their location.
-Installation Instruction - Create a account on Streamlit (which is powerful library of python for creating application
+
+Installation Instruction - Create a account on Streamlit (which is powerful library of python for creating application.
+
 Usage Libraries -  1. BeatuifulSoup for Scrapping the data .
                    2. Request for handle the user request.
 
